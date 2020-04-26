@@ -12,7 +12,7 @@ Install Flask, Flask Table using command prompt.
 
   > pip install flask_table
 
-# Download / Clone repository add run main.py
+# Download / Clone repository and run main.py
 
 Run main.py in Command prompt.
 
