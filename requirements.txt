@@ -4,9 +4,9 @@ Download python from https://www.python.org/downloads/
 
 Install Flask, Flask Table using command prompt.
 
-> pip install Flask
+  $ pip install Flask
 
-> pip install flask_table
+  $ pip install flask_table
 
 # Download / Clone repository add run main.py
 
